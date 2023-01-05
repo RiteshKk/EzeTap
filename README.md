@@ -18,6 +18,9 @@
    ## Screen Shot
   ![Alt text](https://github.com/RiteshKk/EzeTap/blob/master/WhatsApp%20Image%202023-01-05%20at%2012.25.56%20PM%20(1).jpeg?raw=true "Home Screen")
   ![Alt text](https://github.com/RiteshKk/EzeTap/blob/master/WhatsApp%20Image%202023-01-05%20at%2012.25.56%20PM.jpeg?raw=true "User Info Screen")
-  [![Watch the video](https://github.com/RiteshKk/EzeTap/blob/master/WhatsApp%20Image%202023-01-05%20at%2012.25.56%20PM%20(1).jpeg?raw=true)](https://github.com/RiteshKk/EzeTap/blob/master/WhatsApp%20Video%202023-01-05%20at%2012.21.15%20PM.mp4)
  
  
+
+https://user-images.githubusercontent.com/10908590/210722462-54d510e6-5e68-4584-b321-fc8b83fd982d.mp4
+
+
